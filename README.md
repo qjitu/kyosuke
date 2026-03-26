@@ -3,15 +3,14 @@
   - I'm particularly interested in **Web development**, **AR**, **IoT**, **machine learning**, and **cloud technologies**.  
   - I actively participate in **lightning talks (LTs)** and **hackathons**, constantly seeking opportunities to learn and build exciting things.
 
-## 📊 GitHub Stats:
-  <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjitu&layout=compact&theme=react&hide_border=false&border_radius=5&order=1" height="200" alt="language　graph"/>
-    <div style="display: flex; flex-direction: column; gap: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=qjitu&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
-      <img src="https://streak-stats.demolab.com?user=qjitu&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
-    </div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qjitu&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
-  </div>
+## 📊 GitHub Stats: 
+<div align="center" style="display: flex; justify-content: center; gap: 20px;"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjitu&layout=compact&theme=react&hide_border=false&border_radius=5&order=1" height="200" alt="language　graph"/> 
+  <div style="display: flex; flex-direction: column; gap: 20px;"> 
+    <img src="https://streak-stats.demolab.com?user=qjitu&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/> 
+  </div> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qjitu&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/> 
+</div>
 
 ## 🏆 GitHub Trophies
   <div align="center">

@@ -4,20 +4,10 @@
   - I actively participate in **lightning talks (LTs)** and **hackathons**, constantly seeking opportunities to learn and build exciting things.
 
 ## 📊 GitHub Stats: 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjitu&layout=compact&theme=react&hide_border=false&border_radius=5&order=1" height="200" alt="language　graph"/> 
-  <div style="display: flex; flex-direction: column; gap: 20px;"> 
-    <img src="https://streak-stats.demolab.com?user=qjitu&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/> 
-  </div> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qjitu&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/> 
-</div>
-
-## 🏆 GitHub Trophies
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-profile-trophy.vercel.app/?username=qjitu&theme=darkhub"/>
-    </a>
-  </div>
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=qjitu&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjitu&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
+</p>
 
 ## 📽️ My Projects
 Check out my other project!: [My Project](https://github.com/qjitu/output)
